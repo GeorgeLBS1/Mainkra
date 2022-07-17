@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"redstone_torch_off",
+	"metalness_emissive_roughness":"redstone_torch_off_mer",
+	"heightmap":"torch_on_normal"
+}
+}

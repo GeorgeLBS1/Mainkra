@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"polished_blackstone",
+	"metalness_emissive_roughness":"polished_blackstone_mer",
+	"heightmap":"stone_andesite_smooth_normal"
+}
+}

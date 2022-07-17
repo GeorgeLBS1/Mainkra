@@ -1,0 +1,24 @@
+{
+"namespace":"debug_screen",
+"access_button@common_buttons.light_content_button":
+	{
+		"$pressed_button_name":"button.access",
+		"size":[20,20],
+		"offset":[20,20],
+		"anchor_to":"top_left",
+		"anchor_from":"top_left",
+		"focus_enabled":false,
+		"bindings":
+		[
+			{
+			"binding_name":"#access_screen_visible",
+			"binding_name_override":"#visible"
+			}
+		]
+	},
+
+"special_render":
+	{
+	"ignored":true
+	}
+}

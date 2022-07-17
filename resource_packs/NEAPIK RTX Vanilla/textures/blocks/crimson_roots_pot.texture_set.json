@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"crimson_roots_pot",
+	"metalness_emissive_roughness":"crimson_roots_mer",
+	"heightmap":"crimson_roots_pot_normal"
+}
+}

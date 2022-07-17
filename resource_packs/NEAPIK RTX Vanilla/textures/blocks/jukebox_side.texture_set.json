@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"jukebox_side",
+	"metalness_emissive_roughness":"noteblock_mer",
+	"heightmap":"noteblock_normal"
+}
+}

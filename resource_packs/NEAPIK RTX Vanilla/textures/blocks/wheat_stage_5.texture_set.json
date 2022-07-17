@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"wheat_stage_5",
+	"metalness_emissive_roughness":"wheat_stage_0_mer",
+	"heightmap":"wheat_stage_5_normal"
+}
+}

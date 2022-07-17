@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"pearlescent_froglight_top",
+	"metalness_emissive_roughness":"ochre_froglight_top_mer",
+	"heightmap":"ochre_froglight_top_normal"
+}
+}

@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"blast_furnace_front",
+	"metalness_emissive_roughness":"blast_furnace_front_mer",
+	"heightmap":"blast_furnace_front_normal"
+}
+}

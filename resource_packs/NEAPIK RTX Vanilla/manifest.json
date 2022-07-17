@@ -1,0 +1,26 @@
+{
+"format_version":2,
+
+"header":
+{
+	"description":"Beautiful & Minimalist Vanilla RTX Conversion.\nPBR designed by §l§aNEAPIK§r on YouTube.",
+	"name":"NEAPIK-RTX Vanilla 32x",
+	"uuid":"a1c665ff-7f47-4c32-a709-b6e0f2d70a98",
+	"version":[1,19,1],
+	"min_engine_version":[1,16,200]
+},
+
+"modules":
+[
+	{
+	"description":"Beautiful & Minimalist Vanilla RTX Conversion.\nPBR designed by §l§aNEAPIK§r on YouTube.",
+	"type":"resources",
+	"uuid":"9b7474ab-02bc-46de-a350-ac5fd684cfa9",
+	"version":[1,19,1]
+	}
+],
+"capabilities":
+[
+"raytraced"
+]
+}

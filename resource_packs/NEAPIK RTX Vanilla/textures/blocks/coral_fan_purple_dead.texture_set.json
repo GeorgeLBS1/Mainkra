@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"coral_fan_purple_dead",
+	"metalness_emissive_roughness":"coral_blue_dead_mer",
+	"heightmap":"coral_fan_purple_normal"
+}
+}

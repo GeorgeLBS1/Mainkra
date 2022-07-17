@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"mud_bricks",
+	"metalness_emissive_roughness":"packed_mud_mer",
+	"heightmap":"mud_bricks_normal"
+}
+}

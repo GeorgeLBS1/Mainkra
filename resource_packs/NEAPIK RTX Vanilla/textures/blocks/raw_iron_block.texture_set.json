@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"raw_iron_block",
+	"metalness_emissive_roughness":"copper_block_mer",
+	"heightmap":"raw_iron_block_normal"
+}
+}

@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"coral_plant_blue",
+	"metalness_emissive_roughness":"coral_blue_mer",
+	"heightmap":"coral_plant_blue_normal"
+}
+}

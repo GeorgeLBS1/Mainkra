@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"hardened_clay_stained_silver",
+	"metalness_emissive_roughness":"concrete_powder_gray_mer",
+	"heightmap":"hardened_clay_normal"
+}
+}

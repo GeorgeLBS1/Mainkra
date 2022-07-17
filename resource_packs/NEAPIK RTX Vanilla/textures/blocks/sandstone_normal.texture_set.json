@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"sandstone_normal",
+	"metalness_emissive_roughness":[0,0,192],
+	"heightmap":"sandstone_normal_normal"
+}
+}

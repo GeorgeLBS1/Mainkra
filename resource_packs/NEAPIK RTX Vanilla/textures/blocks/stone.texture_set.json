@@ -1,0 +1,9 @@
+﻿{
+"format_version":"1.16.100",
+"minecraft:texture_set":
+{
+	"color":"stone",
+	"metalness_emissive_roughness":"stone_mer",
+	"heightmap":"stone_normal"
+}
+}

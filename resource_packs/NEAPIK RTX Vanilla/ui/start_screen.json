@@ -1,0 +1,14 @@
+﻿{
+"namespace":"start",
+
+	//---------------------------------------------------------------------------
+	//								Main Buttons Panel
+	//---------------------------------------------------------------------------
+
+"play_button@start.main_button":
+	{
+		"$pressed_button_name":"$play_button_target",
+		"$button_text":"Play",
+		"$focus_override_right":"profile_button"
+	}
+}

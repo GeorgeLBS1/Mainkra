@@ -1,0 +1,31 @@
+﻿{
+"resource_pack_name":"neapik_rtx",
+"texture_name":"atlas.terrain",
+"padding":0,
+"num_mip_levels":0,
+"texture_data":
+{
+	
+	"redstone_ore_lit":{
+	"textures":"textures/blocks/redstone_ore_lit"
+	},
+
+	"deepslate_redstone_ore_lit":{
+	"textures":"textures/blocks/deepslate/deepslate_redstone_ore_lit"
+	},
+	
+	"pumpkin_face_on_lit":{
+	"textures":"textures/blocks/pumpkin_face_on_lit"
+	},
+	
+	"pumpkin_side_lit":{
+	"textures":"textures/blocks/pumpkin_side_lit"
+	},
+
+	"pumpkin_top_lit":{
+	"textures":"textures/blocks/pumpkin_top_lit"
+	}
+	
+}
+}
+//NEAPIK RTX Vanilla
